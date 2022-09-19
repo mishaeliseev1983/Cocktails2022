@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cocktails2022</string>
+    <string name="choose_filter">Choose filter:</string>
+    <string name="change_filter">Change filter</string>
+    <string name="select_filter_category">&#8230;</string>
+    <string name="favorite">favorite</string>
+    <string name="close">Close</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="unselectall">Unselect all</string>
+    <string name="check_hearts">Check the hearts in the upper left corner to get a list of your favorite cocktails</string>
+</resources>
